@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  /* display: flex;
+  width: 100vw; */
+  min-height: 100vh;
+}
+
+#root{
+  height: 100vh;
+}
+
+/* Custom styling for pagination */
+.custom-pagination .MuiPaginationItem-root {
+  color: #f00; /* Your custom color */
+}
+.custom-pagination .Mui-selected {
+  background-color: #f00; /* Custom color for selected item */
+}
+
+/* .bg-black {
+    --tw-bg-opacity: 1;
+    background-color: #0000005f;
+} */
+

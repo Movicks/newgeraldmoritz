@@ -1,0 +1,61 @@
+export const reviews = [
+    // Corporate Law Reviews
+    { name: "James K Michaelson", rating: 5, review: "The corporate team at GeraldLaw was exceptional! They guided us through complex regulations with ease." },
+    { name: "Sarah T Williams", rating: 4, review: "Impressed by their knowledge of corporate compliance. They made the process straightforward." },
+    { name: "David J Kingston", rating: 5, review: "Fantastic service! GeraldLaw's corporate lawyers helped us navigate a challenging merger." },
+    { name: "Emily M Johnson", rating: 5, review: "Professional and thorough! I felt secure knowing my business was in good hands." },
+    { name: "Michael Bob", rating: 4, review: "Great team! They were responsive and worked hard to meet our business needs." },
+    { name: "Linda Z Peterson", rating: 5, review: "Outstanding advice on contract negotiations. GeraldLaw is a cut above the rest!" },
+    { name: "Jessica A Hamilton", rating: 5, review: "The team provided excellent counsel during our corporate restructuring. Highly recommend!" },
+    { name: "Benjamin O Lawrence", rating: 4, review: "Very satisfied with the service provided. They are knowledgeable and reliable." },
+    { name: "Olivia K Brownstein", rating: 5, review: "Exceptional service! They made complex corporate issues easy to understand." },
+    { name: "Aaron K Thompson", rating: 5, review: "The best corporate law experience I've had! They truly care about their clients." },
+    
+    // Family Law Reviews
+    { name: "Samantha T Williams", rating: 5, review: "GeraldLaw was incredibly supportive during my divorce proceedings. Highly recommend!" },
+    { name: "Brian A Jones", rating: 4, review: "I appreciated their sensitivity and professionalism in handling my family law case." },
+    { name: "Emma S Brown", rating: 5, review: "The team was understanding and fought hard for my rights in custody negotiations." },
+    { name: "Noah R Lee", rating: 5, review: "Exceptional representation! They made a tough situation much more manageable." },
+    { name: "Ava K Taylor", rating: 4, review: "Very pleased with their attention to detail in my family law case." },
+    { name: "Mason H Williams", rating: 5, review: "They were compassionate and knowledgeable throughout my divorce. Great support!" },
+    { name: "Isabella P Clark", rating: 5, review: "I felt heard and supported at every stage of the process. Highly recommend their services!" },
+    { name: "Ethan L Harris", rating: 4, review: "Great communication and support during my family law issues. Thank you!" },
+    { name: "Sophia M Walker", rating: 5, review: "Their expertise in family law helped me secure a favorable outcome in my case." },
+    { name: "Liam J Lewis", rating: 5, review: "Incredible service! They really care about their clients' well-being." },
+    
+    // Criminal Law Reviews
+    { name: "Kevin H Turner", rating: 5, review: "The attorneys at GeraldLaw provided outstanding defense during my case. I felt supported the entire time!" },
+    { name: "Grace M Thompson", rating: 4, review: "They were professional and knowledgeable about criminal law. Helped me navigate a tough situation." },
+    { name: "Aiden J Parker", rating: 5, review: "Their expertise in criminal defense is unmatched. I couldn't have asked for better representation!" },
+    { name: "Sophia B Martinez", rating: 5, review: "I felt completely supported by the team during my trial. They worked tirelessly for my defense." },
+    { name: "Isaac L Carter", rating: 4, review: "Great communication and commitment to my case. They kept me informed every step of the way." },
+    { name: "Olivia R James", rating: 5, review: "I was so relieved to have their support during a challenging time. Highly recommend!" },
+    { name: "Liam A White", rating: 5, review: "The legal team at GeraldLaw is fantastic! They truly fight for their clients." },
+    { name: "Emma P Clark", rating: 4, review: "I appreciated their honesty and dedication to my case. They made a tough process manageable." },
+    { name: "Noah K Green", rating: 5, review: "Exceptional service! They made sure my rights were protected throughout the legal process." },
+    { name: "Mia S Lewis", rating: 5, review: "I couldn't have asked for a better defense. They were professional and committed." },
+    
+    // Real Estate Reviews
+    { name: "Zoe Y Anderson", rating: 5, review: "GeraldLaw made the process of buying my home so easy! Highly recommend!" },
+    { name: "Logan G Thomas", rating: 4, review: "They provided great advice and support throughout the entire real estate transaction." },
+    { name: "Emily C Robinson", rating: 5, review: "Fantastic service! They handled everything with professionalism and care." },
+    { name: "Jackson H Turner", rating: 5, review: "I was impressed by their attention to detail in my real estate closing." },
+    { name: "Amelia R Martinez", rating: 4, review: "Very pleased with the support I received during my property purchase." },
+    { name: "Alexander S Clark", rating: 5, review: "The real estate team at GeraldLaw is outstanding! They truly go above and beyond." },
+    { name: "Charlotte M Young", rating: 5, review: "I felt confident in their hands during my home buying process. Excellent service!" },
+    { name: "Henry P Hall", rating: 4, review: "Knowledgeable and professional! They helped me navigate tricky real estate laws." },
+    { name: "Ava L Allen", rating: 5, review: "I couldn’t have asked for a better experience! They were attentive and supportive." },
+    { name: "Gabriel K Scott", rating: 5, review: "The team made my first home purchase a breeze! Highly recommend GeraldLaw." },
+    
+    // Intellectual Property Reviews
+    { name: "Sophia L Nguyen", rating: 5, review: "GeraldLaw's IP team was fantastic! They helped me protect my invention with ease." },
+    { name: "John D Smith", rating: 4, review: "Professional service! They guided me through the trademark application process seamlessly." },
+    { name: "Ella P Johnson", rating: 5, review: "Exceptional knowledge of copyright law! I felt well-informed and supported." },
+    { name: "Daniel H Lee", rating: 5, review: "I couldn't be happier with their IP services. They were responsive and attentive." },
+    { name: "Grace M Carter", rating: 4, review: "Great team! They were thorough and explained every step of the process." },
+    { name: "Liam R Davis", rating: 5, review: "GeraldLaw helped me navigate complex IP issues effectively. Highly recommend their services!" },
+    { name: "Mia K Brown", rating: 5, review: "I felt well-protected under their guidance. The IP lawyers were top-notch!" },
+    { name: "Lucas J White", rating: 4, review: "Excellent experience with their IP services! They really care about their clients." },
+    { name: "Chloe A Smith", rating: 5, review: "They secured my patent swiftly and efficiently. Couldn't ask for better service!" },
+    { name: "Oliver T King", rating: 5, review: "Professional and knowledgeable! They handled my IP matters with great expertise." },
+];
